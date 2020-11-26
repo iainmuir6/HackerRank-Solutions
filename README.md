@@ -30,7 +30,11 @@ Number | Challenge | Solution
 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/EmployeeSalaries.sql)
 
 ## Basic Join
-
+Number | Challenge | Solution
+------------ | ------------- | -------------
+1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AsianPopulation.sql)
+2 | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AfricanCities.sql)
+3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AveragePopulationOfEachContinent.sql)
 
 ## Aggregation
 

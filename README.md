@@ -35,7 +35,7 @@ Number | Challenge | Solution
 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AsianPopulation.sql)
 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AfricanCities.sql)
 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AveragePopulationOfEachContinent.sql)
-4 | [Top Competitors](https://www.hackerrank.com/challenges/top-competitors) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TopCompetitors.sql)
+4 | [Top Competitors](https://www.hackerrank.com/challenges/full-score) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TopCompetitors.sql)
 5 | [The Report](https://www.hackerrank.com/challenges/the-report) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TheReport.sql)
 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/OllivandersInventory.sql)
 7 | [Challenges](https://www.hackerrank.com/challenges/challenges) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/Challenges.sql)
@@ -68,7 +68,7 @@ Number | Challenge | Solution
 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TypeOfTriangle.sql)
 2 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/BinaryTreeNodes.sql)
 3 | [The PADS](https://www.hackerrank.com/challenges/the-pads) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/ThePADS.sql)
-4 | [New Companies](https://www.hackerrank.com/challenges/new-companies) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/NewCompanies.sql)
+4 | [New Companies](https://www.hackerrank.com/challenges/the-company) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/NewCompanies.sql)
 5 | [Occupations](https://www.hackerrank.com/challenges/occupations) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/Occupations.sql)
 
 ## Advanced Join

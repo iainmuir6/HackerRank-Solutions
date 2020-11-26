@@ -37,7 +37,23 @@ Number | Challenge | Solution
 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AveragePopulationOfEachContinent.sql)
 
 ## Aggregation
-
+1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-TheCountFunction.sql)
+2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-the-sum-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-TheSumFunction.sql)
+3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-averages) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-Averages.sql)
+4 | [Average Population](https://www.hackerrank.com/challenges/average-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AveragePopulation.sql)
+5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/JapanPopulation.sql)
+6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/PopulationDensityDifference.sql)
+7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TheBlunder.sql)
+8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TopEarners.sql)
+9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation2.sql)
+10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation13.sql)
+11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation14.sql)
+12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation15.sql)
+13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation16.sql)
+14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation17.sql)
+15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation18.sql)
+16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation19.sql)
+17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation20.sql)
 
 ## Advanced Select
 

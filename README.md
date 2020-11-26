@@ -37,6 +37,8 @@ Number | Challenge | Solution
 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/AveragePopulationOfEachContinent.sql)
 
 ## Aggregation
+Number | Challenge | Solution
+------------ | ------------- | -------------
 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-TheCountFunction.sql)
 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-the-sum-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-TheSumFunction.sql)
 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-averages) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/RevisingAggregations-Averages.sql)

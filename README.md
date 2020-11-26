@@ -58,7 +58,11 @@ Number | Challenge | Solution
 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/WeatherObservationStation20.sql)
 
 ## Advanced Select
-
+Number | Challenge | Solution
+------------ | ------------- | -------------
+1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/TypeOfTriangle.sql)
+2 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/BinaryTreeNodes.sql)
+3 | [The PADS](https://www.hackerrank.com/challenges/the-pads) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/ThePADS.sql)
 
 ## Advanced Join
 

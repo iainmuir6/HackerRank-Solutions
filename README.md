@@ -65,6 +65,10 @@ Number | Challenge | Solution
 3 | [The PADS](https://www.hackerrank.com/challenges/the-pads) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/ThePADS.sql)
 
 ## Advanced Join
-
+1 | [Placements](https://www.hackerrank.com/challenges/placements) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/Placements.sql)
+2 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/SymmetricPairs.sql)
+3 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/SQLProjectPlanning.sql)
+4 | [Interviews](https://www.hackerrank.com/challenges/interviews) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/Interviews.sql)
+5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Basic%20Select/15DaysOfLearningSQL.sql)
 
 ## Advanced Queries

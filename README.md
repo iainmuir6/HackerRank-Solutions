@@ -51,7 +51,7 @@ Number | Challenge | Solution
 ------------ | ------------- | -------------
 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/RevisingAggregations-TheCountFunction.sql)
 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-the-sum-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/RevisingAggregations-TheSumFunction.sql)
-3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-averages) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/RevisingAggregations-Averages.sql)
+3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/RevisingAggregations-Averages.sql)
 4 | [Average Population](https://www.hackerrank.com/challenges/average-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/AveragePopulation.sql)
 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/JapanPopulation.sql)
 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | [mySQL](https://github.com/iainmuir6/HackerRankSolutions/blob/main/Aggregation/PopulationDensityDifference.sql)

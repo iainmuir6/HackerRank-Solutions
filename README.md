@@ -6,10 +6,10 @@
 ![Alt Text](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
 # HackerRank Solutions
 
-# Description
-Compilation of solutions to HackerRank mySQL challenges.
+# DESCRIPTION
+Compilation of solutions to HackerRank mySQL challenges; a few of the challenges included in the table remain unsolved.
 
-# Domains
+# CHALLENGES
 ## Basic Select
 Number | Challenge | Solution
 ------------ | ------------- | -------------

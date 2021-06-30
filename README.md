@@ -95,3 +95,5 @@ Number | Challenge | Solution
 # Credits
 Code written and compiled by Iain A. Muir.
 Feel free to reach out to me at my University email, iam9ez@virginia.edu, if you have any questions.
+
+README file is modeled after [Thomas-George-T's repo](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions), yet the code is my own.

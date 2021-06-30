@@ -1,6 +1,6 @@
 [![SQL](https://img.shields.io/badge/sql-100%25-blue)](https://pypi.python.org/pypi/ansicolortags/)
 [![SQL](https://img.shields.io/badge/implementation-mySQL-blueviolet)](https://pypi.python.org/pypi/ansicolortags/)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen)](https://pypi.python.org/pypi/ansicolortags/)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-No-red)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 ![Alt Text](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)

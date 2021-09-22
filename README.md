@@ -3,7 +3,8 @@
 [![Maintained](https://img.shields.io/badge/Maintained%3F-No-red)](https://pypi.python.org/pypi/ansicolortags/)
 
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="250"/>
+
 # HackerRank Solutions
 
 # DESCRIPTION
